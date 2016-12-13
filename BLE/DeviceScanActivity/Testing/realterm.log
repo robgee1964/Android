@@ -1,0 +1,134 @@
+APRO v4.06
+Compiler : Delphi 7
+Operating System : Windows XP 5.1 Service Pack 3
+Device: COM2
+Date/time: 07/03/15, 09:18:51
+Time      Type      SubType       Data      OtherData
+--------  --------  ------------  --------  ---------
+158522.753  Trigger   Status        00000032  
+158522.753  TrDatChg  Timer         00000038  $[00][00][00]
+158522.757  Dispatch  ReadCom       00000001  [00]
+158522.757  Trigger   Avail         00000001  
+158522.757  TrDatChg  Timer         00000040  [01][00][00][00]
+158522.858  Trigger   Timer         00000040  
+158524.787  Trigger   Timer         00000038  
+158524.788  TrDatChg  Status        00000032  [10][00][00][00]
+159619.768  Dispatch  WriteCom      0000000F  Hello[20]Android[0D][0A]
+159619.778  Trigger   Status        0000004D  
+159619.778  TrDatChg  Timer         00000050  [01][00][00][00]
+159619.880  Trigger   Timer         00000050  
+159619.880  TrDatChg  Status        0000004D  [00][00][00][00]
+159639.735  Dispatch  ReadCom       00000008  Text[20]to[20]
+159639.735  Trigger   Avail         00000008  
+159639.736  TrDatChg  Timer         00000040  [01][00][00][00]
+159639.744  Dispatch  ReadCom       00000004  send
+159639.744  Trigger   Avail         00000004  
+159639.846  Trigger   Timer         00000040  
+159652.312  Dispatch  WriteCom      0000000F  Hello[20]Android[0D][0A]
+159652.338  Trigger   Status        0000004D  
+159652.338  TrDatChg  Timer         00000050  [01][00][00][00]
+159652.439  Trigger   Timer         00000050  
+159652.439  TrDatChg  Status        0000004D  [00][00][00][00]
+159652.536  Dispatch  ReadCom       00000008  [02][00][01][00][00][00][00][03]
+159652.536  Trigger   Avail         00000008  
+159652.536  TrDatChg  Timer         00000040  [01][00][00][00]
+159652.637  Trigger   Timer         00000040  
+159707.694  Dispatch  WriteCom      0000000F  Hello[20]Android[0D][0A]
+159707.735  Trigger   Status        0000004D  
+159707.735  TrDatChg  Timer         00000050  [01][00][00][00]
+159707.836  Trigger   Timer         00000050  
+159707.837  TrDatChg  Status        0000004D  [00][00][00][00]
+159707.935  Dispatch  ReadCom       00000008  [02][00][02][00][00][00][00][03]
+159707.935  Trigger   Avail         00000008  
+159707.936  TrDatChg  Timer         00000040  [01][00][00][00]
+159708.037  Trigger   Timer         00000040  
+159807.355  Dispatch  ReadCom       00000008  Text[20]to[20]
+159807.355  Trigger   Avail         00000008  
+159807.355  TrDatChg  Timer         00000040  [01][00][00][00]
+159807.364  Dispatch  ReadCom       00000004  send
+159807.364  Trigger   Avail         00000004  
+159807.465  Trigger   Timer         00000040  
+159816.075  Dispatch  ReadCom       00000008  Text[20]to[20]
+159816.075  Trigger   Avail         00000008  
+159816.076  TrDatChg  Timer         00000040  [01][00][00][00]
+159816.084  Dispatch  ReadCom       00000004  send
+159816.084  Trigger   Avail         00000004  
+159816.186  Trigger   Timer         00000040  
+159864.427  Dispatch  WriteCom      0000000F  Hello[20]Android[0D][0A]
+159864.427  Trigger   Status        0000004D  
+159864.428  TrDatChg  Timer         00000050  [01][00][00][00]
+159864.529  Trigger   Timer         00000050  
+159864.529  TrDatChg  Status        0000004D  [00][00][00][00]
+159881.906  Dispatch  WriteCom      0000000F  Hello[20]Android[0D][0A]
+159881.947  Trigger   Status        0000004D  
+159881.947  TrDatChg  Timer         00000050  [01][00][00][00]
+159882.048  Trigger   Timer         00000050  
+159882.049  TrDatChg  Status        0000004D  [00][00][00][00]
+159882.155  Dispatch  ReadCom       00000008  [02][00][03][00][00][00][00][03]
+159882.155  Trigger   Avail         00000008  
+159882.156  TrDatChg  Timer         00000040  [01][00][00][00]
+159882.257  Trigger   Timer         00000040  
+159915.335  Dispatch  ReadCom       00000008  Text[20]to[20]
+159915.335  Trigger   Avail         00000008  
+159915.336  TrDatChg  Timer         00000040  [01][00][00][00]
+159915.344  Dispatch  ReadCom       00000004  send
+159915.344  Trigger   Avail         00000004  
+159915.446  Trigger   Timer         00000040  
+159919.075  Dispatch  ReadCom       00000008  Text[20]to[20]
+159919.075  Trigger   Avail         00000008  
+159919.075  TrDatChg  Timer         00000040  [01][00][00][00]
+159919.084  Dispatch  ReadCom       00000004  send
+159919.084  Trigger   Avail         00000004  
+159919.185  Trigger   Timer         00000040  
+159930.874  Dispatch  WriteCom      0000000F  Hello[20]Android[0D][0A]
+159930.915  Trigger   Status        0000004D  
+159930.916  TrDatChg  Timer         00000050  [01][00][00][00]
+159931.017  Trigger   Timer         00000050  
+159931.017  TrDatChg  Status        0000004D  [00][00][00][00]
+160062.374  Dispatch  WriteCom      0000000F  Hello[20]Android[0D][0A]
+160062.387  Trigger   Status        0000004D  
+160062.388  TrDatChg  Timer         00000050  [01][00][00][00]
+160062.489  Trigger   Timer         00000050  
+160062.489  TrDatChg  Status        0000004D  [00][00][00][00]
+160085.174  Dispatch  ReadCom       00000008  Text[20]to[20]
+160085.174  Trigger   Avail         00000008  
+160085.174  TrDatChg  Timer         00000040  [01][00][00][00]
+160085.183  Dispatch  ReadCom       00000004  send
+160085.183  Trigger   Avail         00000004  
+160085.284  Trigger   Timer         00000040  
+160087.734  Dispatch  ReadCom       00000008  Text[20]to[20]
+160087.734  Trigger   Avail         00000008  
+160087.735  TrDatChg  Timer         00000040  [01][00][00][00]
+160087.743  Dispatch  ReadCom       00000004  send
+160087.743  Trigger   Avail         00000004  
+160087.844  Trigger   Timer         00000040  
+160087.934  Dispatch  ReadCom       00000008  Text[20]to[20]
+160087.934  Trigger   Avail         00000008  
+160087.934  TrDatChg  Timer         00000040  [01][00][00][00]
+160087.943  Dispatch  ReadCom       00000004  send
+160087.943  Trigger   Avail         00000004  
+160088.045  Trigger   Timer         00000040  
+160088.114  Dispatch  ReadCom       00000008  Text[20]to[20]
+160088.114  Trigger   Avail         00000008  
+160088.115  TrDatChg  Timer         00000040  [01][00][00][00]
+160088.123  Dispatch  ReadCom       00000004  send
+160088.123  Trigger   Avail         00000004  
+160088.173  Trigger   Timer         00000040  
+160088.275  Dispatch  ReadCom       00000008  Text[20]to[20]
+160088.275  Trigger   Avail         00000008  
+160088.275  TrDatChg  Timer         00000040  [01][00][00][00]
+160088.284  Dispatch  ReadCom       00000004  send
+160088.284  Trigger   Avail         00000004  
+160088.385  Trigger   Timer         00000040  
+182833.075  Dispatch  ReadCom       00000001  T
+182833.075  Trigger   Avail         00000001  
+182833.076  TrDatChg  Timer         00000040  [01][00][00][00]
+182833.177  Trigger   Timer         00000040  
+182854.875  Dispatch  ReadCom       00000001  2
+182854.875  Trigger   Avail         00000001  
+182854.876  TrDatChg  Timer         00000040  [01][00][00][00]
+182855.027  Trigger   Timer         00000040  
+182868.635  Dispatch  ReadCom       00000001  2
+182868.635  Trigger   Avail         00000001  
+182868.635  TrDatChg  Timer         00000040  [01][00][00][00]
+182868.736  Trigger   Timer         00000040  
