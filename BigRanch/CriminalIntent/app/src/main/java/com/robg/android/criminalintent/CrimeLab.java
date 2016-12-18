@@ -1,6 +1,6 @@
-import android.content.Context;
+package com.robg.android.criminalintent;
 
-import com.robg.android.criminalintent.Crime;
+import android.content.Context;
 
 import java.util.ArrayList;
 import java.util.List;
